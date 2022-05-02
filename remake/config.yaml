@@ -1,0 +1,4 @@
+# test yaml 用于设置test相关的参数，开源版本需要去掉参数
+token:
+  appid: "102007458"
+  token: "wlNQE5tXUEcRo4iyj4Ezr58jTrKr8jsb"
